@@ -1,7 +1,7 @@
 module.exports = {
   servers: {
     one: {
-      host: 'the ip for your droplet', // Your IP for Linux test or production server IP
+      host: 'The IP for your Digital Oceans, AWS, or EC2 ', // Your IP for Linux test or production server IP
       username: 'root',
       // pem: '/home/user/.ssh/id_rsa', // mup doesn't support '~' alias for home directory	  
       // 
